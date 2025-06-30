@@ -1,3 +1,5 @@
+# Dictionary
+
 A simple, responsive dictionary web app that allows users to search for definitions, examples, and antonyms of English words using the Dictionary API.
 
 🔗 Live Demo: dictionary-ashy-ten.vercel.app
